@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  ProyectoTeoria
+
+  Created by Razvan andrei lismanu on 1/22/19.
+  Copyright © 2019 Razvan andrei lismanu. All rights reserved.
+*/
+
+"Welcome" = "Welcome to our zoo";
+"Mensaje" = "See wildlife euroasiatic";
+"Animal1" = "Driveway eagle";
+"Animal2" = "Short-toed eagle ";
+"Animal3" = "Royal owl";
+"Animal4" = "Griffon vulture";
+"Animal5" = "Kestrel vulgar";
+"Animal6" = "Boreal linx";
+"Boton" = "Go to";

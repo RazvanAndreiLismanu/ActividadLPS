@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  ProyectoTeoria
+
+  Created by Razvan andrei lismanu on 1/22/19.
+  Copyright © 2019 Razvan andrei lismanu. All rights reserved.
+*/
+
+"Welcome" = "Bienvenido al zoo";
+"Mensaje" = "Ver fauna euroasiática ";
+"Animal1" = "Águila calzada";
+"Animal2" = "Águila culebrera";
+"Animal3" = "Búho real";
+"Animal4" = "Buitre leonado";
+"Animal5" = "Cernícola vulgar";
+"Animal6" = "Lince boreal";
+"Boton" = "Ir a";
